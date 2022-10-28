@@ -16,4 +16,3 @@ This is a `Hello World` example project built with Storyblok and Remix.
 ## Learn More
 
 To learn more about Remix, take a look at the [Remix Documentation](https://remix.run/docs).
-# lets-remix-to-localize-content
